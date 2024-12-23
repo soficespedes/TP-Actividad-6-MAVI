@@ -1,0 +1,22 @@
+﻿  juego.cpp
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,44): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,44): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,44): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,44): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,30): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,30): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,30): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(20,30): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,58): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,58): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,58): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,58): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,44): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,44): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,44): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Wild Physics\juego.cpp(70,44): warning C4244:         ]
+  Wild Physics.vcxproj -> C:\Users\SOFI }\source\repos\Práctica U6\Actividad IV Wild Physics\Debug\Wild Physics.exe
